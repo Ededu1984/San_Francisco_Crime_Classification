@@ -4,7 +4,7 @@ It refers to the solution to the challenge from the Kaggle platform called the S
 <br />
 
 ## Kaggle platform
-![](img/kaggle.jpg)
+![](img/Kaggle.jpg)
 
 This is the link where the challenge was proposed:
 <br />
