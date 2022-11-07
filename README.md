@@ -2,6 +2,7 @@
 It refers to the solution to the challenge from the Kaggle platform called the San Francisco Crime Classification.
 <br />
 <br />
+
 ## Kaggle platform
 ![](img/kaggle.jpg)
 
